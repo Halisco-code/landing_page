@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navl{
+    top: 0px;
+    background-color: rgb(255, 253, 253);
+    width: 100%;
+    display: flex;
+    position: fixed;
+    border: 2px solid black;
+}
+.logo{
+    width: 90px;
+    height: 10vh;
+}
+.link{
+    margin-left: 800px;
+    padding: 10px;
+    color: #B52A38;
+}
+.ali{
+    color: #B52A38;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.welcome{
+    padding: 80px 20px;
+    right: 70px;
+}
+.price{
+    font-family: monospace;
+    font-size: 25px;
+}
+button{
+    background-color: #B52A38;
+    color: white;
+    width: 100px;
+}
+.mark{
+    background-color: #B52A38;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+.yo{
+    background-color: #B52A38;
+    color: white;
+}
